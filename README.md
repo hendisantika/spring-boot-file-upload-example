@@ -20,4 +20,4 @@ open your browser :
 
 ![Home Page](images/home.png "Home Page")
 
-![Upload Page](images/home.png "Upload File")
+![Upload Page](images/upload.png "Upload File")
