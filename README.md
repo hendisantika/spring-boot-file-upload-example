@@ -4,7 +4,7 @@ This article shows you how to upload a file in Spring Boot web application.
 
 Tools used :
 
-1. Spring Boot 1.5.8.RELEASE
+1. Spring Boot 1.5.16.RELEASE
 2. Spring 4.3.7.RELEASE
 3. Thymeleaf
 4. Maven
